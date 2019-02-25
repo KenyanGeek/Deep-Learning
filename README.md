@@ -7,13 +7,12 @@ Here is a compilation of a range of *Deep Learning algorithms* for various tasks
 - Transfer Learning
 - Predictions 
 
- -
 ## Getting Started
 
  - Make sure you have Jupyter Notebooks in your computer or in an online space.
  - Make sure the computer has a GPU for training the models both locally via graphic cards such as NVIDIA or online spaces such as  Google Colab
 
-### Installing
+## Installing
 
 Just open the notebooks in the gpu space
 
