@@ -15,6 +15,7 @@ Here is a compilation of a range of *Deep Learning algorithms* for various tasks
 - [Quick Pet Classification using FAST.AI](https://github.com/KenyanGeek/Deep-Learning/blob/master/Pet_Classifier.ipynb)
 - [Plant Disease Image classification using FAST.AI](https://github.com/KenyanGeek/Deep-Learning/blob/master/Plant_Disease_Image_Classifier_with_Fast_ai.ipynb)
 - [Flower Species Indentification using Pytorch](https://github.com/KenyanGeek/Deep-Learning/blob/master/Pytorch_Final_Implementation_.ipynb)
+- [Style Transfer Algorithm via pre-trained models (VGG-19) using Pytorch ](https://github.com/KenyanGeek/Deep-Learning/blob/master/Style_Transfer_Solution.ipynb)
 
 
 
