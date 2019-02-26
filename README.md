@@ -11,7 +11,8 @@ Here is a compilation of a range of *Deep Learning algorithms* for various tasks
 
 - [Cancer Image Classifier from Google Scraped data](https://github.com/KenyanGeek/Deep-Learning/blob/master/Cancer_Image_Classifier_Using_Fastai_%26_Google_Data.ipynb)
 - [Generating Characters using Long-Short Term Memory/Recurrent Neural Networks ](https://github.com/KenyanGeek/Deep-Learning/blob/master/Copy_of_Character_Level_RNN_Exercise.ipynb)
--
+- [Building Multi Layer Perceptron fronm scratch and testing it on MNIST Database ](https://github.com/KenyanGeek/Deep-Learning/blob/master/Multi_Layer_Perceptron_Code_From_Scratch.ipynb)
+- 
 
 ## Getting Started
 
