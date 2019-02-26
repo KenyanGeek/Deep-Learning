@@ -5,7 +5,13 @@ Here is a compilation of a range of *Deep Learning algorithms* for various tasks
 - Image classification
 - Style transfer
 - Transfer Learning
-- Predictions 
+- Predictions
+
+## Content
+
+- [Cancer Image Classifier from Google Scraped data] (https://github.com/KenyanGeek/Deep-Learning/blob/master/Cancer_Image_Classifier_Using_Fastai_%26_Google_Data.ipynb)
+- 
+
 
 ## Getting Started
 
