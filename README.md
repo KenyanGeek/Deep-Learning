@@ -42,7 +42,7 @@ Herman Njoroge Chege
 
 ## License
 
-This project is licensed under the MIT License 
+This project is licensed under the MIT License, however some specific algorithms might be subject to their respective licenses.
 
 ## Acknowledgments
 
