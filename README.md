@@ -1,10 +1,10 @@
 # Deep-Learning Algorithms
 
-Here is a compilation of a range of *Deep Learning algorithms* for tasks such as: 
+Here is a compilation of a range of *Deep Learning algorithms* for interesting tasks such as: 
 
 - Image classification
 - Style transfer
-- Transfer Learning
+- Transfer Learning using pretrained models
 - Predictions
 
 ## Content
