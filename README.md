@@ -28,7 +28,7 @@ Here is a compilation of a range of *Deep Learning algorithms* for interesting t
 
 ## Installing
 
-Just open the notebooks in the gpu space
+Just open the notebooks in your gpu space of choice such as [FloydHub](https://www.floydhub.com/),
 
 
 ## Built With
