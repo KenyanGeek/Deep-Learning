@@ -40,7 +40,7 @@ These are implemented with either  or  libraries
 
 ## Authors
 
-Herman Njoroge Chege // HURU School Artifificial Intelligence Department
+Herman Njoroge Chege // [HURU School](https://www.huruschool.org/) Artificial Intelligence Department
 
 ## License
 
