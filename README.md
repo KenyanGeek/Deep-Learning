@@ -2,8 +2,9 @@
 
 Here is a compilation of a range of *Deep Learning algorithms* for interesting tasks such as: 
 
-- Image classification
-- Style transfer
+- Computer Vision - Image classification
+- Natural Language Processing - Summarization
+- Generative Adversarial Networks - Style transfer 
 - Transfer Learning using pretrained models
 - Predictions
 
@@ -39,7 +40,7 @@ These are implemented with either  or  libraries
 
 ## Authors
 
-Herman Njoroge Chege
+Herman Njoroge Chege // HURU School Artifificial Intelligence Department
 
 ## License
 
